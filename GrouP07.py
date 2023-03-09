@@ -1246,8 +1246,6 @@ print('ROC-AUC Curve',score)
 # In[147]:
 
 
-pip install xgboost
-
 
 # In[148]:
 
