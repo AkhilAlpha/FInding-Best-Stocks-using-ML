@@ -1,3 +1,0 @@
-PyICU
-pycld2
-Morfessor
